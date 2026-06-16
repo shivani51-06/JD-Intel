@@ -1,6 +1,6 @@
-# JD Intel — AI-Powered Resume Scorer
+# JD Intel - AI-Powered Resume Scorer
 
-JD Intel scores your resume against a job description using real interview data scraped from LeetCode, Reddit, and Glassdoor — not just keyword matching.
+JD Intel scores your resume against a job description using real interview data scraped from LeetCode, Reddit, and Glassdoor - not just keyword matching.
 
 **Live Demo**: [jd-intel.vercel.app](https://jd-intel.vercel.app)
 
@@ -14,11 +14,11 @@ JD Intel scores your resume against a job description using real interview data 
    - Scrapes interview experiences for that company + role from Reddit and LeetCode
    - Aggregates signals: most-asked topics, interview format, difficulty trends
 3. **Results page** shows:
-   - Composite score (0–100) with breakdown by category
-   - Skill gap table — matched, partial, and missing skills
-   - Interview blindspots — topics that appear in real interviews but not your resume
-   - Bullet rewrite suggestions — specific resume lines rewritten to better match the JD
-   - Parsability issues — formatting problems that hurt ATS systems
+   - Composite score (0-100) with breakdown by category
+   - Skill gap table - matched, partial, and missing skills
+   - Interview blindspots - topics that appear in real interviews but not your resume
+   - Bullet rewrite suggestions - specific resume lines rewritten to better match the JD
+   - Parsability issues - formatting problems that hurt ATS systems
 
 ---
 
