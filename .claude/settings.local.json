@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir -p \"D:/AI-powered ATS/backend/agents\" \"D:/AI-powered ATS/backend/scoring\" \"D:/AI-powered ATS/frontend/app/results\" \"D:/AI-powered ATS/frontend/app/signals/[company]/[role]\" \"D:/AI-powered ATS/frontend/components\" \"D:/AI-powered ATS/frontend/lib\" && ls -R \"D:/AI-powered ATS\")",
+      "Bash(python -m venv venv)"
+    ]
+  }
+}
